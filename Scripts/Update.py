@@ -8,8 +8,8 @@ from Functions import discord, changelog
 def get_key(x):
     roepnummer = str(x["Roepnummer"]).strip().lower()
 
-    # Fallback key als roepnummer "geen" is
-    if roepnummer == "geen" || roepnummer == "onbekend":
+    # Alle varianten die GEEN unieke key zijn
+    if roepnummer in ["geen", "onbekend", "-", "nvt", ""]:
         return f'{x["Kazerne"]}_{x["TypeVoertuig"]}_{x["Kenteken"]}'
 
     return roepnummer
