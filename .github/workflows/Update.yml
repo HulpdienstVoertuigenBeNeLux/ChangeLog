@@ -5,7 +5,7 @@ on:
     - cron: '0 * * * *'
   push:
     branches:
-      - master
+      - main
   workflow_dispatch:
     inputs:
       logLevel:
@@ -19,11 +19,13 @@ on:
           - debug
 
 jobs:
-  update:
+  update-json:
     runs-on: ubuntu-latest
+    continue-on-error: false
     steps:
-      # 1️⃣ Checkout code
-      - uses: actions/checkout@v3
+      # 1️⃣ Checkout repo met credentials
+      - name: Checkout Repository
+        uses: actions/checkout@v3
         with:
           fetch-depth: 0
           persist-credentials: true
@@ -34,13 +36,13 @@ jobs:
         with:
           python-version: '3.9'
 
-      # 3️⃣ Install dependencies
+      # 3️⃣ Installeer Python packages
       - name: Install Python packages
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # 4️⃣ Run update script
+      # 4️⃣ Run Update script
       - name: Run Update.py
         run: python -u Scripts/Update.py
         env:
@@ -49,7 +51,13 @@ jobs:
           KAZ_URL: ${{ secrets.KAZ_URL }}
           DISCORD: ${{ secrets.DISCORD }}
 
-      # 5️⃣ Prettify & commit if changes
+      # 5️⃣ JSON syntax check
+      - name: JSON Syntax Check
+        uses: limitusus/json-syntax-check@v1
+        with:
+          pattern: "\\.json$"
+
+      # 6️⃣ Prettier & commit
       - name: Prettify and Commit
         run: |
           npm install --no-save prettier@3.8.1
@@ -59,10 +67,7 @@ jobs:
           git add Brandweer.json Changelog.json
           if ! git diff --cached --quiet; then
             git commit -m "Update JSON documents"
-            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/HulpdienstVoertuigenBeNeLux/ChangeLog.git
+            git push
           else
             echo "No changes to commit"
-          fi
         shell: bash
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
