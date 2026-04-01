@@ -124,7 +124,7 @@
     "Kazerne": "Grootegast",
     "Roepnummer": "26-8228",
     "Afkorting": "AHH",
-    "TypeVoertuig": "Arbeidshygi\u00ebne haakarmbak",
+    "TypeVoertuig": "Arbeidshygiëne haakarmbak",
     "Kenteken": "GEEN"
   },
   {
@@ -358,14 +358,6 @@
     "Afkorting": "GM",
     "TypeVoertuig": "Gereedschap/materieelvoertuig",
     "Kenteken": "00-BBJ-4"
-  },
-  {
-    "Regio": "01",
-    "Kazerne": "Bedum",
-    "Roepnummer": "GEEN",
-    "Afkorting": "BRV-K",
-    "TypeVoertuig": "Brandweervaartuig klein",
-    "Kenteken": "ONBEKEND"
   },
   {
     "Regio": "01",
@@ -2042,54 +2034,6 @@
   {
     "Regio": "02",
     "Kazerne": "Hoofdkantoor  ",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "R-666-RS"
-  },
-  {
-    "Regio": "02",
-    "Kazerne": "Hoofdkantoor  ",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DB",
-    "TypeVoertuig": "Dienstbus",
-    "Kenteken": "VTD-89-V"
-  },
-  {
-    "Regio": "02",
-    "Kazerne": "Hoofdkantoor  ",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "S-664-KD"
-  },
-  {
-    "Regio": "02",
-    "Kazerne": "Hoofdkantoor  ",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "R-125-DD"
-  },
-  {
-    "Regio": "02",
-    "Kazerne": "Hoofdkantoor  ",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "R-123-DD"
-  },
-  {
-    "Regio": "02",
-    "Kazerne": "Hoofdkantoor  ",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "R-526-BN"
-  },
-  {
-    "Regio": "02",
-    "Kazerne": "Hoofdkantoor  ",
     "Roepnummer": "02-0295",
     "Afkorting": "VL-B",
     "TypeVoertuig": "Voorlichter Brandweer",
@@ -2353,7 +2297,7 @@
   },
   {
     "Regio": "02",
-    "Kazerne": "Damw\u00e2ld",
+    "Kazerne": "Damwâld",
     "Roepnummer": "02-4301",
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
@@ -2361,7 +2305,7 @@
   },
   {
     "Regio": "02",
-    "Kazerne": "Damw\u00e2ld",
+    "Kazerne": "Damwâld",
     "Roepnummer": "02-4331",
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
@@ -3986,22 +3930,6 @@
   {
     "Regio": "02",
     "Kazerne": "Heerenveen",
-    "Roepnummer": "Geen",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "JXL-75-P"
-  },
-  {
-    "Regio": "02",
-    "Kazerne": "Heerenveen",
-    "Roepnummer": "Geen",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "JZF-79-S"
-  },
-  {
-    "Regio": "02",
-    "Kazerne": "Heerenveen",
     "Roepnummer": "02-HT64",
     "Afkorting": "BM??",
     "TypeVoertuig": "Invoer Error",
@@ -4938,14 +4866,6 @@
   {
     "Regio": "02",
     "Kazerne": "Philips Drachten",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DB",
-    "TypeVoertuig": "Dienstbus",
-    "Kenteken": "14-FX-HB"
-  },
-  {
-    "Regio": "02",
-    "Kazerne": "Philips Drachten",
     "Roepnummer": "02-7531",
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
@@ -5506,22 +5426,6 @@
   {
     "Regio": "03",
     "Kazerne": "Assen Hoofdpost",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "JJ-123-H"
-  },
-  {
-    "Regio": "03",
-    "Kazerne": "Assen Hoofdpost",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "JJ-124-H"
-  },
-  {
-    "Regio": "03",
-    "Kazerne": "Assen Hoofdpost",
     "Roepnummer": "03-PM",
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
@@ -5745,7 +5649,7 @@
   },
   {
     "Regio": "03",
-    "Kazerne": "2e Exlo\u00ebrmond",
+    "Kazerne": "2e Exloërmond",
     "Roepnummer": "03-8502",
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel/materieelvoertuig",
@@ -5753,7 +5657,7 @@
   },
   {
     "Regio": "03",
-    "Kazerne": "2e Exlo\u00ebrmond",
+    "Kazerne": "2e Exloërmond",
     "Roepnummer": "03-8541",
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
@@ -5761,7 +5665,7 @@
   },
   {
     "Regio": "03",
-    "Kazerne": "2e Exlo\u00ebrmond",
+    "Kazerne": "2e Exloërmond",
     "Roepnummer": "03-8567",
     "Afkorting": "WT",
     "TypeVoertuig": "Watertankwagen",
@@ -5994,14 +5898,6 @@
   {
     "Regio": "03",
     "Kazerne": "Emmen",
-    "Roepnummer": "GEEN",
-    "Afkorting": "MSA",
-    "TypeVoertuig": "Motorspuitaanhanger",
-    "Kenteken": "ONBEKEND "
-  },
-  {
-    "Regio": "03",
-    "Kazerne": "Emmen",
     "Roepnummer": "03-8673",
     "Afkorting": "TK-K",
     "TypeVoertuig": "Trekker klein",
@@ -6028,7 +5924,7 @@
     "Kazerne": "Emmen",
     "Roepnummer": "03-8687",
     "Afkorting": "AH",
-    "TypeVoertuig": "Arbeidshygi\u00ebne voertuig",
+    "TypeVoertuig": "Arbeidshygiëne voertuig",
     "Kenteken": "35-BNP-4"
   },
   {
@@ -7097,22 +6993,6 @@
   },
   {
     "Regio": "04",
-    "Kazerne": "Oldemarkt",
-    "Roepnummer": "GEEN",
-    "Afkorting": "MFT",
-    "TypeVoertuig": "Multifunctioneel voertuig terreinvaardig",
-    "Kenteken": "JN-809-V"
-  },
-  {
-    "Regio": "04",
-    "Kazerne": "Oldemarkt",
-    "Roepnummer": "GEEN",
-    "Afkorting": "MSA",
-    "TypeVoertuig": "Motorspuitaanhanger",
-    "Kenteken": "ONBEKEND"
-  },
-  {
-    "Regio": "04",
     "Kazerne": "Steenwijk",
     "Roepnummer": "04-1200",
     "Afkorting": "TD",
@@ -7830,22 +7710,6 @@
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel/materieelvoertuig",
     "Kenteken": "7-VXD-70"
-  },
-  {
-    "Regio": "04",
-    "Kazerne": "Zwolle (Hoofdpost)",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "N-039-FZ"
-  },
-  {
-    "Regio": "04",
-    "Kazerne": "Zwolle (Hoofdpost)",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "N-802-GZ"
   },
   {
     "Regio": "04",
@@ -8978,22 +8842,6 @@
   {
     "Regio": "04",
     "Kazerne": "BOGO",
-    "Roepnummer": "GEEN",
-    "Afkorting": "WO",
-    "TypeVoertuig": "Waterongevallenvoertuig",
-    "Kenteken": "28-BK-SZ"
-  },
-  {
-    "Regio": "04",
-    "Kazerne": "BOGO",
-    "Roepnummer": "GEEN",
-    "Afkorting": "WO",
-    "TypeVoertuig": "Waterongevallenvoertuig",
-    "Kenteken": "BS-HG-32"
-  },
-  {
-    "Regio": "04",
-    "Kazerne": "BOGO",
     "Roepnummer": "BOGO2",
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
@@ -9270,14 +9118,6 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "K-796-VD"
-  },
-  {
-    "Regio": "05",
-    "Kazerne": "Hengelo Centrum",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "PZ-855-B"
   },
   {
     "Regio": "05",
@@ -9582,14 +9422,6 @@
     "Afkorting": "HA",
     "TypeVoertuig": "Haakarmvoertuig",
     "Kenteken": "BX-RL-82"
-  },
-  {
-    "Regio": "05",
-    "Kazerne": "Oldenzaal",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "26-SJP-5"
   },
   {
     "Regio": "05",
@@ -9986,14 +9818,6 @@
   {
     "Regio": "05",
     "Kazerne": "Almelo",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "L-886-KB"
-  },
-  {
-    "Regio": "05",
-    "Kazerne": "Almelo",
     "Roepnummer": "Heftruck Almelo",
     "Afkorting": "BM???",
     "TypeVoertuig": "Invoer Error",
@@ -10372,7 +10196,7 @@
     "Kazerne": "Enschede Hoofdpost",
     "Roepnummer": "05-9485",
     "Afkorting": "AH",
-    "TypeVoertuig": "Arbeidshygi\u00ebne voertuig",
+    "TypeVoertuig": "Arbeidshygiëne voertuig",
     "Kenteken": "96-BKD-7"
   },
   {
@@ -10382,6 +10206,14 @@
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel/materieelvoertuig",
     "Kenteken": "VS-999-L"
+  },
+  {
+    "Regio": "05",
+    "Kazerne": "Enschede Hoofdpost",
+    "Roepnummer": "05-9610",
+    "Afkorting": "DA",
+    "TypeVoertuig": "Dienstauto",
+    "Kenteken": "K-794-VD"
   },
   {
     "Regio": "05",
@@ -10596,7 +10428,7 @@
     "Kazerne": "Rijssen",
     "Roepnummer": "05-9487",
     "Afkorting": "AH",
-    "TypeVoertuig": "Arbeidshygi\u00ebne voertuig",
+    "TypeVoertuig": "Arbeidshygiëne voertuig",
     "Kenteken": "48-BKD-6"
   },
   {
@@ -11836,7 +11668,7 @@
     "Kazerne": "Apeldoorn-Centrum",
     "Roepnummer": "06-9905",
     "Afkorting": "CI-B",
-    "TypeVoertuig": "Co\u00f6rdinatie- en informatievoorzieningsvoertuig Brandweer",
+    "TypeVoertuig": "Coördinatie- en informatievoorzieningsvoertuig Brandweer",
     "Kenteken": "78-VXJ-8"
   },
   {
@@ -12498,6 +12330,14 @@
   {
     "Regio": "06",
     "Kazerne": "Zutphen",
+    "Roepnummer": "06-8003",
+    "Afkorting": "PM",
+    "TypeVoertuig": "Personeel/materieelvoertuig",
+    "Kenteken": "V-53-NGK"
+  },
+  {
+    "Regio": "06",
+    "Kazerne": "Zutphen",
     "Roepnummer": "06-8081",
     "Afkorting": "HA",
     "TypeVoertuig": "Haakarmvoertuig",
@@ -12854,14 +12694,6 @@
     "Afkorting": "SL-KW",
     "TypeVoertuig": "Slangenvoertuig kleinschalige watervoorziening",
     "Kenteken": "VP-18-DS"
-  },
-  {
-    "Regio": "06",
-    "Kazerne": "Didam",
-    "Roepnummer": "06-8003",
-    "Afkorting": "PM",
-    "TypeVoertuig": "Personeel/materieelvoertuig",
-    "Kenteken": "VK-346-J"
   },
   {
     "Regio": "06",
@@ -14164,7 +13996,7 @@
     "Kazerne": "Barneveld Nijkerkerweg",
     "Roepnummer": "07-1081",
     "Afkorting": "AH",
-    "TypeVoertuig": "Arbeidshygi\u00ebne voertuig",
+    "TypeVoertuig": "Arbeidshygiëne voertuig",
     "Kenteken": "93-BKF-8"
   },
   {
@@ -14205,7 +14037,7 @@
     "Roepnummer": "07-1771",
     "Afkorting": "HV-KR",
     "TypeVoertuig": "Hulpverleningsvoertuig met kraan",
-    "Kenteken": "BT-HB-10"
+    "Kenteken": "BB-782-Z"
   },
   {
     "Regio": "07",
@@ -14516,7 +14348,7 @@
     "Kazerne": "Ede Centrum",
     "Roepnummer": "07-2081",
     "Afkorting": "AH",
-    "TypeVoertuig": "Arbeidshygi\u00ebne voertuig",
+    "TypeVoertuig": "Arbeidshygiëne voertuig",
     "Kenteken": "81-BKF-8"
   },
   {
@@ -14611,9 +14443,9 @@
     "Regio": "07",
     "Kazerne": "Ede Centrum",
     "Roepnummer": "07-2771",
-    "Afkorting": "HV-KR",
+    "Afkorting": "HVT-KR",
     "TypeVoertuig": "Hulpverleningsvoertuig met kraan",
-    "Kenteken": "BX-XH-33"
+    "Kenteken": "BB-781-Z"
   },
   {
     "Regio": "07",
@@ -15068,7 +14900,7 @@
     "Kazerne": "Arnhem Noord",
     "Roepnummer": "07-3081",
     "Afkorting": "AH",
-    "TypeVoertuig": "Arbeidshygi\u00ebne voertuig",
+    "TypeVoertuig": "Arbeidshygiëne voertuig",
     "Kenteken": "88-BKF-8"
   },
   {
@@ -15381,7 +15213,7 @@
     "Roepnummer": "07-4261",
     "Afkorting": "RI",
     "TypeVoertuig": "Rietdak brandbestrijdingsteam",
-    "Kenteken": "V-660-HP"
+    "Kenteken": "56-BZX-9"
   },
   {
     "Regio": "07",
@@ -18649,14 +18481,6 @@
   },
   {
     "Regio": "09",
-    "Kazerne": "Vinkeveen",
-    "Roepnummer": "GEEN",
-    "Afkorting": "TK-K",
-    "TypeVoertuig": "Trekker klein",
-    "Kenteken": "ONBEKEND"
-  },
-  {
-    "Regio": "09",
     "Kazerne": "Wilnis",
     "Roepnummer": "09-1501",
     "Afkorting": "DB",
@@ -20004,7 +19828,7 @@
     "Kazerne": "Utrecht Leidsche Rijn",
     "Roepnummer": "09-9087",
     "Afkorting": "AHH",
-    "TypeVoertuig": "Arbeidshygi\u00ebne haakarmbak",
+    "TypeVoertuig": "Arbeidshygiëne haakarmbak",
     "Kenteken": "GEEN"
   },
   {
@@ -20134,14 +19958,6 @@
     "Afkorting": "BMA-OTO",
     "TypeVoertuig": "Bijzonder materieel aanhanger t.b.v. opleiding, training en oefenen",
     "Kenteken": "WP-55-HB"
-  },
-  {
-    "Regio": "09",
-    "Kazerne": "Utrecht Leidsche Rijn",
-    "Roepnummer": "GEEN",
-    "Afkorting": "BMH-OTO",
-    "TypeVoertuig": "Bijzonder materieel haakarmbak t.b.v. opleiding, training en oefenen",
-    "Kenteken": "GEEN"
   },
   {
     "Regio": "09",
@@ -21170,54 +20986,6 @@
   {
     "Regio": "09",
     "Kazerne": "Zeist",
-    "Roepnummer": "GEEN",
-    "Afkorting": "BMA-OTO",
-    "TypeVoertuig": "Bijzonder materieel aanhanger t.b.v. opleiding, training en oefenen",
-    "Kenteken": "ONBEKEND"
-  },
-  {
-    "Regio": "09",
-    "Kazerne": "Zeist",
-    "Roepnummer": "GEEN",
-    "Afkorting": "BMA-OTO",
-    "TypeVoertuig": "Bijzonder materieel aanhanger t.b.v. opleiding, training en oefenen",
-    "Kenteken": "ONBEKEND"
-  },
-  {
-    "Regio": "09",
-    "Kazerne": "Zeist",
-    "Roepnummer": "GEEN",
-    "Afkorting": "BMA-OTO",
-    "TypeVoertuig": "Bijzonder materieel aanhanger t.b.v. opleiding, training en oefenen",
-    "Kenteken": "ONBEKEND"
-  },
-  {
-    "Regio": "09",
-    "Kazerne": "Zeist",
-    "Roepnummer": "GEEN",
-    "Afkorting": "BMA-OTO",
-    "TypeVoertuig": "Bijzonder materieel aanhanger t.b.v. opleiding, training en oefenen",
-    "Kenteken": "ONBEKEND"
-  },
-  {
-    "Regio": "09",
-    "Kazerne": "Zeist",
-    "Roepnummer": "GEEN",
-    "Afkorting": "BMA-OTO",
-    "TypeVoertuig": "Bijzonder materieel aanhanger t.b.v. opleiding, training en oefenen",
-    "Kenteken": "WR-72-JK"
-  },
-  {
-    "Regio": "09",
-    "Kazerne": "Zeist",
-    "Roepnummer": "GEEN",
-    "Afkorting": "BMA-OTO",
-    "TypeVoertuig": "Bijzonder materieel aanhanger t.b.v. opleiding, training en oefenen",
-    "Kenteken": "ONBEKEND"
-  },
-  {
-    "Regio": "09",
-    "Kazerne": "Zeist",
     "Roepnummer": "BMH Jeugd",
     "Afkorting": "BMH-OTO",
     "TypeVoertuig": "Bijzonder materieel haakarmbak t.b.v. opleiding, training en oefenen",
@@ -21246,22 +21014,6 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "1-THL-11"
-  },
-  {
-    "Regio": "09",
-    "Kazerne": "Zeist",
-    "Roepnummer": "GEEN",
-    "Afkorting": "BM???",
-    "TypeVoertuig": "Invoer Error",
-    "Kenteken": "ONBEKEND"
-  },
-  {
-    "Regio": "09",
-    "Kazerne": "Zeist",
-    "Roepnummer": "GEEN",
-    "Afkorting": "MSA",
-    "TypeVoertuig": "Motorspuitaanhanger",
-    "Kenteken": "ONBEKEND"
   },
   {
     "Regio": "09",
@@ -21644,7 +21396,7 @@
     "Kazerne": "Alkmaar Centrum",
     "Roepnummer": "10-6522",
     "Afkorting": "C-VE",
-    "TypeVoertuig": "Co\u00f6rdinator verkenningseenheden",
+    "TypeVoertuig": "Coördinator verkenningseenheden",
     "Kenteken": "PX-700-V"
   },
   {
@@ -21668,7 +21420,7 @@
     "Kazerne": "Alkmaar Centrum",
     "Roepnummer": "10-6583",
     "Afkorting": "AH",
-    "TypeVoertuig": "Arbeidshygi\u00ebne voertuig",
+    "TypeVoertuig": "Arbeidshygiëne voertuig",
     "Kenteken": "70-BVK-9"
   },
   {
@@ -22241,14 +21993,6 @@
   },
   {
     "Regio": "10",
-    "Kazerne": "Graft-De Rijp",
-    "Roepnummer": "GEEN",
-    "Afkorting": "Invoer Error",
-    "TypeVoertuig": "Invoer Error",
-    "Kenteken": "02-WH-DX"
-  },
-  {
-    "Regio": "10",
     "Kazerne": "Heerhugowaard",
     "Roepnummer": "10-4801",
     "Afkorting": "DA",
@@ -22500,7 +22244,7 @@
     "Kazerne": "Winkel",
     "Roepnummer": "10-6582",
     "Afkorting": "AH",
-    "TypeVoertuig": "Arbeidshygi\u00ebne voertuig",
+    "TypeVoertuig": "Arbeidshygiëne voertuig",
     "Kenteken": "75-BVK-9"
   },
   {
@@ -22628,7 +22372,7 @@
     "Kazerne": "Zwaag",
     "Roepnummer": "10-6581",
     "Afkorting": "AH",
-    "TypeVoertuig": "Arbeidshygi\u00ebne voertuig",
+    "TypeVoertuig": "Arbeidshygiëne voertuig",
     "Kenteken": "68-BVK-9"
   },
   {
@@ -23628,7 +23372,7 @@
     "Kazerne": "Purmerend",
     "Roepnummer": "11-0886",
     "Afkorting": "AHH",
-    "TypeVoertuig": "Arbeidshygi\u00ebne haakarmbak",
+    "TypeVoertuig": "Arbeidshygiëne haakarmbak",
     "Kenteken": "GEEN"
   },
   {
@@ -23762,7 +23506,7 @@
   {
     "Regio": "11",
     "Kazerne": "Broek in Waterland",
-    "Roepnummer": "11-6081",
+    "Roepnummer": "11-6083",
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
     "Kenteken": "3-ZTB-91"
@@ -23778,14 +23522,6 @@
   {
     "Regio": "11",
     "Kazerne": "Marken",
-    "Roepnummer": "11-60",
-    "Afkorting": "BMA-OTO",
-    "TypeVoertuig": "Bijzonder materieel aanhanger t.b.v. opleiding, training en oefenen",
-    "Kenteken": "08-WD-SJ"
-  },
-  {
-    "Regio": "11",
-    "Kazerne": "Marken",
     "Roepnummer": "11-6032",
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
@@ -23794,10 +23530,18 @@
   {
     "Regio": "11",
     "Kazerne": "Marken",
-    "Roepnummer": "11-6083",
-    "Afkorting": "PM",
-    "TypeVoertuig": "Personeel/materieelvoertuig",
-    "Kenteken": "00-TKZ-9"
+    "Roepnummer": "11-6082",
+    "Afkorting": "DB",
+    "TypeVoertuig": "Dienstbus",
+    "Kenteken": "HKX-12-T"
+  },
+  {
+    "Regio": "11",
+    "Kazerne": "Marken",
+    "Roepnummer": "11-60",
+    "Afkorting": "BMA-OTO",
+    "TypeVoertuig": "Bijzonder materieel aanhanger t.b.v. opleiding, training en oefenen",
+    "Kenteken": "08-WD-SJ"
   },
   {
     "Regio": "11",
@@ -23810,7 +23554,7 @@
   {
     "Regio": "11",
     "Kazerne": "Monnickendam",
-    "Roepnummer": "11-6082",
+    "Roepnummer": "11-6081",
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
     "Kenteken": "3-ZTB-96"
@@ -24164,7 +23908,7 @@
     "Kazerne": "Zaandam Oost",
     "Roepnummer": "11-0222",
     "Afkorting": "C-VE",
-    "TypeVoertuig": "Co\u00f6rdinator verkenningseenheden",
+    "TypeVoertuig": "Coördinator verkenningseenheden",
     "Kenteken": "X-625-JK"
   },
   {
@@ -24577,22 +24321,6 @@
   },
   {
     "Regio": "12",
-    "Kazerne": "Heemskerk",
-    "Roepnummer": "GEEN",
-    "Afkorting": "BMA-OTO",
-    "TypeVoertuig": "Bijzonder materieel aanhanger t.b.v. opleiding, training en oefenen",
-    "Kenteken": "ONBEKEND"
-  },
-  {
-    "Regio": "12",
-    "Kazerne": "Heemskerk",
-    "Roepnummer": "GEEN",
-    "Afkorting": "BMA-OTO",
-    "TypeVoertuig": "Bijzonder materieel aanhanger t.b.v. opleiding, training en oefenen",
-    "Kenteken": "ONBEKEND"
-  },
-  {
-    "Regio": "12",
     "Kazerne": "Beverwijk West",
     "Roepnummer": "12-2201",
     "Afkorting": "DB",
@@ -24718,14 +24446,6 @@
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
     "Kenteken": "VZF-97-S"
-  },
-  {
-    "Regio": "12",
-    "Kazerne": "Beverwijk Oost",
-    "Roepnummer": "GEEN",
-    "Afkorting": "BMA-NB",
-    "TypeVoertuig": "Bijzonder materieel aanhanger met natuurbrandbestrijding materieel",
-    "Kenteken": "19-WD-SN"
   },
   {
     "Regio": "12",
@@ -25076,7 +24796,7 @@
     "Kazerne": "Haarlem West",
     "Roepnummer": "12-1586",
     "Afkorting": "AHH",
-    "TypeVoertuig": "Arbeidshygi\u00ebne haakarmbak",
+    "TypeVoertuig": "Arbeidshygiëne haakarmbak",
     "Kenteken": "GEEN"
   },
   {
@@ -25108,7 +24828,7 @@
     "Kazerne": "Haarlem West",
     "Roepnummer": "12-1683",
     "Afkorting": "AH",
-    "TypeVoertuig": "Arbeidshygi\u00ebne voertuig",
+    "TypeVoertuig": "Arbeidshygiëne voertuig",
     "Kenteken": "50-BBV-4"
   },
   {
@@ -25678,14 +25398,6 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "X-044-NR"
-  },
-  {
-    "Regio": "12",
-    "Kazerne": "Hoofddorp",
-    "Roepnummer": "GEEN",
-    "Afkorting": "PM",
-    "TypeVoertuig": "Personeel/materieelvoertuig",
-    "Kenteken": "VP-466-N"
   },
   {
     "Regio": "12",
@@ -26469,7 +26181,7 @@
     "Roepnummer": "13-3351",
     "Afkorting": "AL",
     "TypeVoertuig": "Autoladder",
-    "Kenteken": "58-BDB-1"
+    "Kenteken": "BB-362-Z"
   },
   {
     "Regio": "13",
@@ -26526,6 +26238,22 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "2-KLB-24"
+  },
+  {
+    "Regio": "13",
+    "Kazerne": "Amsterdam Willem + Hoofdkantoor VRAA",
+    "Roepnummer": "13-0091",
+    "Afkorting": "OVD-BZ",
+    "TypeVoertuig": "Officier van dienst bevolkingszorg",
+    "Kenteken": "HTR-66-Z"
+  },
+  {
+    "Regio": "13",
+    "Kazerne": "Amsterdam Willem + Hoofdkantoor VRAA",
+    "Roepnummer": "13-0092",
+    "Afkorting": "OVD-BZ",
+    "TypeVoertuig": "Officier van dienst bevolkingszorg",
+    "Kenteken": "HTR-67-Z"
   },
   {
     "Regio": "13",
@@ -27202,14 +26930,6 @@
   {
     "Regio": "13",
     "Kazerne": "Galwin",
-    "Roepnummer": "13-0908",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "8-ZRF-50"
-  },
-  {
-    "Regio": "13",
-    "Kazerne": "Galwin",
     "Roepnummer": "13-9021",
     "Afkorting": "AGS",
     "TypeVoertuig": "Adviseur gevaarlijke stoffen",
@@ -27322,6 +27042,14 @@
   {
     "Regio": "13",
     "Kazerne": "Galwin",
+    "Roepnummer": "13-9203",
+    "Afkorting": "DB",
+    "TypeVoertuig": "Dienstbus",
+    "Kenteken": "HST-43-L"
+  },
+  {
+    "Regio": "13",
+    "Kazerne": "Galwin",
     "Roepnummer": "13-9211",
     "Afkorting": "WO",
     "TypeVoertuig": "Waterongevallenvoertuig",
@@ -27346,6 +27074,14 @@
   {
     "Regio": "13",
     "Kazerne": "Galwin",
+    "Roepnummer": "13-9231",
+    "Afkorting": "TS",
+    "TypeVoertuig": "Tankautospuit",
+    "Kenteken": "BB-605-Z"
+  },
+  {
+    "Regio": "13",
+    "Kazerne": "Galwin",
     "Roepnummer": "13-9232",
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
@@ -27365,7 +27101,7 @@
     "Roepnummer": "13-9251",
     "Afkorting": "AL",
     "TypeVoertuig": "Autoladder",
-    "Kenteken": "BV-XN-50"
+    "Kenteken": "58-BDB-1"
   },
   {
     "Regio": "13",
@@ -27398,6 +27134,14 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "X-069-GR"
+  },
+  {
+    "Regio": "13",
+    "Kazerne": "Galwin",
+    "Roepnummer": "13-9383",
+    "Afkorting": "LO",
+    "TypeVoertuig": "Logistiek voertuig",
+    "Kenteken": "83-BZK-4"
   },
   {
     "Regio": "13",
@@ -27846,14 +27590,6 @@
     "Afkorting": "DPH-GW",
     "TypeVoertuig": "Dompelpomphaakarmbak grootschalige watervoorziening",
     "Kenteken": "GEEN"
-  },
-  {
-    "Regio": "14",
-    "Kazerne": "Huizen Hoofdpost",
-    "Roepnummer": "GEEN",
-    "Afkorting": "BMA-OTO",
-    "TypeVoertuig": "Bijzonder materieel aanhanger t.b.v. opleiding, training en oefenen",
-    "Kenteken": "ONBEKEND"
   },
   {
     "Regio": "14",
@@ -28334,30 +28070,6 @@
     "Afkorting": "BMA-OTO",
     "TypeVoertuig": "Bijzonder materieel aanhanger t.b.v. opleiding, training en oefenen",
     "Kenteken": "ONBEKEND"
-  },
-  {
-    "Regio": "14",
-    "Kazerne": "Hilversum",
-    "Roepnummer": "GEEN",
-    "Afkorting": "LOA",
-    "TypeVoertuig": "Logistiek aanhanger",
-    "Kenteken": "ONBEKEND"
-  },
-  {
-    "Regio": "14",
-    "Kazerne": "Hilversum",
-    "Roepnummer": "GEEN",
-    "Afkorting": "LOA",
-    "TypeVoertuig": "Logistiek aanhanger",
-    "Kenteken": "ONBEKEND"
-  },
-  {
-    "Regio": "14",
-    "Kazerne": "Hilversum",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "HJS-77-R"
   },
   {
     "Regio": "14",
@@ -30034,30 +29746,6 @@
   {
     "Regio": "15",
     "Kazerne": "Den Haag-Haaglanden",
-    "Roepnummer": "GEEN",
-    "Afkorting": "BMH-OTO",
-    "TypeVoertuig": "Bijzonder materieel haakarmbak t.b.v. opleiding, training en oefenen",
-    "Kenteken": "GEEN"
-  },
-  {
-    "Regio": "15",
-    "Kazerne": "Den Haag-Haaglanden",
-    "Roepnummer": "GEEN",
-    "Afkorting": "BMH-OTO",
-    "TypeVoertuig": "Bijzonder materieel haakarmbak t.b.v. opleiding, training en oefenen",
-    "Kenteken": "GEEN"
-  },
-  {
-    "Regio": "15",
-    "Kazerne": "Den Haag-Haaglanden",
-    "Roepnummer": "GEEN",
-    "Afkorting": "BMH-OTO",
-    "TypeVoertuig": "Bijzonder materieel haakarmbak t.b.v. opleiding, training en oefenen",
-    "Kenteken": "GEEN"
-  },
-  {
-    "Regio": "15",
-    "Kazerne": "Den Haag-Haaglanden",
     "Roepnummer": "15-9700",
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
@@ -30557,15 +30245,7 @@
     "Roepnummer": "16-9191",
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
-    "Kenteken": "KJ-418-R"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Hillegom",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "J-432-KF"
+    "Kenteken": "JXX-37-T"
   },
   {
     "Regio": "16",
@@ -30590,22 +30270,6 @@
     "Afkorting": "AL",
     "TypeVoertuig": "Autoladder",
     "Kenteken": "67-BTS-9"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Lisse",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "TP-757-V"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Lisse",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "3-ZPB-98"
   },
   {
     "Regio": "16",
@@ -30684,7 +30348,7 @@
     "Kazerne": "Voorhout",
     "Roepnummer": "16-9282",
     "Afkorting": "AH",
-    "TypeVoertuig": "Arbeidshygi\u00ebne voertuig",
+    "TypeVoertuig": "Arbeidshygiëne voertuig",
     "Kenteken": "BN-LB-44"
   },
   {
@@ -30710,14 +30374,6 @@
     "Afkorting": "WT",
     "TypeVoertuig": "Watertankwagen",
     "Kenteken": "18-BSJ-7"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Rijnsburg",
-    "Roepnummer": "GEEN",
-    "Afkorting": "PM",
-    "TypeVoertuig": "Personeel/materieelvoertuig",
-    "Kenteken": "88-BPP-6"
   },
   {
     "Regio": "16",
@@ -30790,30 +30446,6 @@
     "Afkorting": "BMH-NB",
     "TypeVoertuig": "Bijzonder materieel haakarmbak met natuurbrand bestrijdingmaterieel",
     "Kenteken": "GEEN"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Katwijk",
-    "Roepnummer": "GEEN",
-    "Afkorting": "PM",
-    "TypeVoertuig": "Personeel/materieelvoertuig",
-    "Kenteken": "89-BPP-6"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Katwijk",
-    "Roepnummer": "GEEN",
-    "Afkorting": "PM",
-    "TypeVoertuig": "Personeel/materieelvoertuig",
-    "Kenteken": "VFG-88-H"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Katwijk",
-    "Roepnummer": "GEEN",
-    "Afkorting": "PM",
-    "TypeVoertuig": "Personeel/materieelvoertuig",
-    "Kenteken": "VFG-89-H"
   },
   {
     "Regio": "16",
@@ -31277,7 +30909,7 @@
     "Roepnummer": "16-9193",
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
-    "Kenteken": "KH-966-P"
+    "Kenteken": "JZB-56-J"
   },
   {
     "Regio": "16",
@@ -31314,26 +30946,10 @@
   {
     "Regio": "16",
     "Kazerne": "Alphen a/d Rijn",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "4-ZPB-00"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Alphen a/d Rijn",
     "Roepnummer": "16-Dienstbus",
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
     "Kenteken": "KB-168-R"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Alphen a/d Rijn",
-    "Roepnummer": "GEEN",
-    "Afkorting": "LO",
-    "TypeVoertuig": "Logistiek voertuig",
-    "Kenteken": "BN-PN-96"
   },
   {
     "Regio": "16",
@@ -31460,7 +31076,7 @@
     "Kazerne": "Koudekerk a/d Rijn",
     "Roepnummer": "16-9282",
     "Afkorting": "AH",
-    "TypeVoertuig": "Arbeidshygi\u00ebne voertuig",
+    "TypeVoertuig": "Arbeidshygiëne voertuig",
     "Kenteken": "BN-LB-44"
   },
   {
@@ -31645,7 +31261,7 @@
     "Roepnummer": "16-9194",
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
-    "Kenteken": "KH-968-P"
+    "Kenteken": "JXX-35-T"
   },
   {
     "Regio": "16",
@@ -31721,54 +31337,6 @@
   },
   {
     "Regio": "16",
-    "Kazerne": "Gouda",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "TP-746-V"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Gouda",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "TP-749-V"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Gouda",
-    "Roepnummer": "GEEN",
-    "Afkorting": "OVD-B",
-    "TypeVoertuig": "Officier van dienst Brandweer",
-    "Kenteken": "69-ZSF-5"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Gouda",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "TP-751-V"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Gouda",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "TP-755-V"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Gouda",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "TR-675-N"
-  },
-  {
-    "Regio": "16",
     "Kazerne": "Nieuwerburg",
     "Roepnummer": "16-3002",
     "Afkorting": "DB",
@@ -31789,7 +31357,7 @@
     "Roepnummer": "16-3003",
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
-    "Kenteken": "KF-138-H"
+    "Kenteken": "JKV-88-X"
   },
   {
     "Regio": "16",
@@ -31869,7 +31437,7 @@
     "Roepnummer": "16-3312",
     "Afkorting": "BRV-M",
     "TypeVoertuig": "Brandweervaartuig middel",
-    "Kenteken": "ONBEKEND "
+    "Kenteken": "32-88-YM"
   },
   {
     "Regio": "16",
@@ -31917,7 +31485,7 @@
     "Roepnummer": "16-9195",
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
-    "Kenteken": "KH-969-P"
+    "Kenteken": "JXX-36-T"
   },
   {
     "Regio": "16",
@@ -31962,14 +31530,6 @@
   {
     "Regio": "16",
     "Kazerne": "Lekkerkerk",
-    "Roepnummer": "16-3526",
-    "Afkorting": "VK-GS",
-    "TypeVoertuig": "Verkenningsvoertuig IBGS",
-    "Kenteken": "Onbekend "
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Lekkerkerk",
     "Roepnummer": "16-3530",
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
@@ -31981,14 +31541,14 @@
     "Roepnummer": "16-3560",
     "Afkorting": "WT",
     "TypeVoertuig": "Watertankwagen",
-    "Kenteken": "ONBEKEND"
+    "Kenteken": "BB-396-K"
   },
   {
     "Regio": "16",
     "Kazerne": "Gouderak",
-    "Roepnummer": "16-3601",
-    "Afkorting": "DB",
-    "TypeVoertuig": "Dienstbus",
+    "Roepnummer": "16-3626",
+    "Afkorting": "VK-GS",
+    "TypeVoertuig": "Verkenningsvoertuig IBGS",
     "Kenteken": "KG-989-T"
   },
   {
@@ -32117,7 +31677,7 @@
     "Roepnummer": "16-3762",
     "Afkorting": "WT",
     "TypeVoertuig": "Watertankwagen",
-    "Kenteken": "ONBEKEND"
+    "Kenteken": "85-BZZ-6"
   },
   {
     "Regio": "16",
@@ -32141,7 +31701,7 @@
     "Roepnummer": "16-3830",
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
-    "Kenteken": "Onbekend "
+    "Kenteken": "53-BXP-2"
   },
   {
     "Regio": "16",
@@ -32253,7 +31813,7 @@
     "Roepnummer": "16-9192",
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
-    "Kenteken": "KH-965-P"
+    "Kenteken": "JXX-38-T"
   },
   {
     "Regio": "16",
@@ -32286,30 +31846,6 @@
     "Afkorting": "SLH-GW",
     "TypeVoertuig": "Slangenhaakarmbak grootschalige watervoorziening",
     "Kenteken": "GEEN"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Leiden Noord",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "TP-747-V"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Leiden Noord",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "TR-676-N"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Leiden Noord",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "TR-680-N"
   },
   {
     "Regio": "16",
@@ -32404,7 +31940,7 @@
     "Kazerne": "Leiden Zuid",
     "Roepnummer": "16-9090",
     "Afkorting": "C-VE",
-    "TypeVoertuig": "Co\u00f6rdinator verkenningseenheden",
+    "TypeVoertuig": "Coördinator verkenningseenheden",
     "Kenteken": "J-508-FJ"
   },
   {
@@ -32449,190 +31985,6 @@
   },
   {
     "Regio": "16",
-    "Kazerne": "Leiden Zuid",
-    "Roepnummer": "GEEN",
-    "Afkorting": "OVD-B",
-    "TypeVoertuig": "Officier van dienst Brandweer",
-    "Kenteken": "18-JHV-4"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Leiden Zuid",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "J-140-RX"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Leiden Zuid",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "J-382-SB"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Leiden Zuid",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "J-467-JD"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Leiden Zuid",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "J-468-JD"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Leiden Zuid",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "T-088-XG"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Leiden Zuid",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "TP-748-V"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Leiden Zuid",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "JL-473-L"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Leiden Zuid",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "HV-551-K"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Leiden Zuid",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DB",
-    "TypeVoertuig": "Dienstbus",
-    "Kenteken": "1-KST-12"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Leiden Zuid",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "HV-552-K"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Leiden Zuid",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "TP-753-V"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Leiden Zuid",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "TR-677-N"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Leiden Zuid",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "TR-678-N"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Leiden Zuid",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "TR-679-N"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Leiden Zuid",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "11-SLT-4"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Leiden Zuid",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "TR-681-N"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Leiden Zuid",
-    "Roepnummer": "GEEN",
-    "Afkorting": "LO",
-    "TypeVoertuig": "Logistiek voertuig",
-    "Kenteken": "BN-PB-33"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Leiden Zuid",
-    "Roepnummer": "GEEN",
-    "Afkorting": "PM",
-    "TypeVoertuig": "Personeel/materieelvoertuig",
-    "Kenteken": "VFG-68-L"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Leiden Zuid",
-    "Roepnummer": "GEEN",
-    "Afkorting": "PM",
-    "TypeVoertuig": "Personeel/materieelvoertuig",
-    "Kenteken": "VFG-85-H"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Leiden Zuid",
-    "Roepnummer": "GEEN",
-    "Afkorting": "PM",
-    "TypeVoertuig": "Personeel/materieelvoertuig",
-    "Kenteken": "VFG-86-H"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Leiden Zuid",
-    "Roepnummer": "GEEN",
-    "Afkorting": "PM",
-    "TypeVoertuig": "Personeel/materieelvoertuig",
-    "Kenteken": "VGR-53-F"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Leiden Zuid",
-    "Roepnummer": "GEEN",
-    "Afkorting": "PM",
-    "TypeVoertuig": "Personeel/materieelvoertuig",
-    "Kenteken": "VFG-87-H"
-  },
-  {
-    "Regio": "16",
     "Kazerne": "Voorschoten",
     "Roepnummer": "16-4400",
     "Afkorting": "DB",
@@ -32674,50 +32026,10 @@
   {
     "Regio": "16",
     "Kazerne": "Vakbekwaamheid",
-    "Roepnummer": "GEEN",
-    "Afkorting": "PM",
-    "TypeVoertuig": "Personeel/materieelvoertuig",
-    "Kenteken": "VFZ-78-B"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Vakbekwaamheid",
-    "Roepnummer": "GEEN",
-    "Afkorting": "PM",
-    "TypeVoertuig": "Personeel/materieelvoertuig",
-    "Kenteken": "VFZ-88-D"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Vakbekwaamheid",
-    "Roepnummer": "GEEN",
-    "Afkorting": "PM",
-    "TypeVoertuig": "Personeel/materieelvoertuig",
-    "Kenteken": "VFZ-89-D"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Vakbekwaamheid",
-    "Roepnummer": "GEEN",
-    "Afkorting": "PM",
-    "TypeVoertuig": "Personeel/materieelvoertuig",
-    "Kenteken": "VGF-83-J"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Vakbekwaamheid",
     "Roepnummer": "16-234",
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BN-BR-97"
-  },
-  {
-    "Regio": "16",
-    "Kazerne": "Vakbekwaamheid",
-    "Roepnummer": "16-9200",
-    "Afkorting": "DB",
-    "TypeVoertuig": "Dienstbus",
-    "Kenteken": "KF-138-H"
   },
   {
     "Regio": "16",
@@ -32797,7 +32109,7 @@
     "Roepnummer": "DB-02",
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
-    "Kenteken": "PN-804-B"
+    "Kenteken": "JSN-93-B"
   },
   {
     "Regio": "17",
@@ -32829,7 +32141,7 @@
     "Roepnummer": "17-9071",
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel/materieelvoertuig",
-    "Kenteken": "NF-338-G"
+    "Kenteken": "V-15-NTL"
   },
   {
     "Regio": "17",
@@ -32926,62 +32238,6 @@
     "Afkorting": "VZH",
     "TypeVoertuig": "Verzorgingshaakarmbak",
     "Kenteken": "GEEN"
-  },
-  {
-    "Regio": "17",
-    "Kazerne": "Frobenstraat ",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "RP-911-P"
-  },
-  {
-    "Regio": "17",
-    "Kazerne": "Frobenstraat ",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "RP-912-P"
-  },
-  {
-    "Regio": "17",
-    "Kazerne": "Frobenstraat ",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "RP-913-P"
-  },
-  {
-    "Regio": "17",
-    "Kazerne": "Frobenstraat ",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "RP-914-P"
-  },
-  {
-    "Regio": "17",
-    "Kazerne": "Frobenstraat ",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "RP-915-P"
-  },
-  {
-    "Regio": "17",
-    "Kazerne": "Frobenstraat ",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "KP-540-Z"
-  },
-  {
-    "Regio": "17",
-    "Kazerne": "Frobenstraat ",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "KP-541-Z"
   },
   {
     "Regio": "17",
@@ -33841,14 +33097,6 @@
   },
   {
     "Regio": "17",
-    "Kazerne": "Moezelweg",
-    "Roepnummer": "GEEN",
-    "Afkorting": "LO",
-    "TypeVoertuig": "Logistiek voertuig",
-    "Kenteken": "V-37-DDR"
-  },
-  {
-    "Regio": "17",
     "Kazerne": "Rozenburg",
     "Roepnummer": "17-1731",
     "Afkorting": "TS",
@@ -33878,14 +33126,6 @@
     "Afkorting": "HA",
     "TypeVoertuig": "Haakarmvoertuig",
     "Kenteken": "11-BTP-3"
-  },
-  {
-    "Regio": "17",
-    "Kazerne": "Rozenburg",
-    "Roepnummer": "GEEN",
-    "Afkorting": "TS",
-    "TypeVoertuig": "Tankautospuit",
-    "Kenteken": "VD-67-RV"
   },
   {
     "Regio": "17",
@@ -33982,14 +33222,6 @@
     "Afkorting": "SB-Z",
     "TypeVoertuig": "Schuimblusvoertuig zeer groot",
     "Kenteken": "15-BGN-3"
-  },
-  {
-    "Regio": "17",
-    "Kazerne": "Butaanweg",
-    "Roepnummer": "GEEN",
-    "Afkorting": "GSH",
-    "TypeVoertuig": "Gevaarlijke stoffen haakarmbak",
-    "Kenteken": "GEEN"
   },
   {
     "Regio": "17",
@@ -34102,22 +33334,6 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "NF-343-G"
-  },
-  {
-    "Regio": "17",
-    "Kazerne": "Hellevoetsluis",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "KP-539-Z"
-  },
-  {
-    "Regio": "17",
-    "Kazerne": "Hellevoetsluis",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "KP-544-Z"
   },
   {
     "Regio": "17",
@@ -34534,14 +33750,6 @@
     "Afkorting": "CO-MU",
     "TypeVoertuig": "Commando voertuig multidisciplinair",
     "Kenteken": "96-BBF-6"
-  },
-  {
-    "Regio": "17",
-    "Kazerne": "Ridderkerk",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DB",
-    "TypeVoertuig": "Dienstbus",
-    "Kenteken": "VJG-70-K"
   },
   {
     "Regio": "17",
@@ -35009,62 +34217,6 @@
   },
   {
     "Regio": "17",
-    "Kazerne": "Rotterdam Port Authority",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "HV-986-D"
-  },
-  {
-    "Regio": "17",
-    "Kazerne": "Rotterdam Port Authority",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "HV-989-D"
-  },
-  {
-    "Regio": "17",
-    "Kazerne": "Rotterdam Port Authority",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "HH-212-J"
-  },
-  {
-    "Regio": "17",
-    "Kazerne": "Rotterdam Port Authority",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "HK-822-B"
-  },
-  {
-    "Regio": "17",
-    "Kazerne": "Rotterdam Port Authority",
-    "Roepnummer": "GEEN",
-    "Afkorting": "GM",
-    "TypeVoertuig": "Gereedschap/materieelvoertuig",
-    "Kenteken": "VJ-747-Z"
-  },
-  {
-    "Regio": "17",
-    "Kazerne": "Rotterdam Port Authority",
-    "Roepnummer": "GEEN",
-    "Afkorting": "GM",
-    "TypeVoertuig": "Gereedschap/materieelvoertuig",
-    "Kenteken": "VB-264-H"
-  },
-  {
-    "Regio": "17",
-    "Kazerne": "Rotterdam Port Authority",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DAT",
-    "TypeVoertuig": "Dienstauto terreinvaardig",
-    "Kenteken": "VS-335-X"
-  },
-  {
-    "Regio": "17",
     "Kazerne": "Opleidingscentrum Rotterdam ",
     "Roepnummer": "17-1633",
     "Afkorting": "TS-OTO",
@@ -35116,7 +34268,7 @@
     "Kazerne": "Airport Rotterdam ",
     "Roepnummer": "17-8981 (81)",
     "Afkorting": "PAT",
-    "TypeVoertuig": "Pati\u00ebntenvervoer voertuig terreinvaardig",
+    "TypeVoertuig": "Patiëntenvervoer voertuig terreinvaardig",
     "Kenteken": "TZD-99-S"
   },
   {
@@ -35158,14 +34310,6 @@
     "Afkorting": "AGS",
     "TypeVoertuig": "Adviseur gevaarlijke stoffen",
     "Kenteken": "G-470-DD"
-  },
-  {
-    "Regio": "17",
-    "Kazerne": "Regionaal/Wilhelminakade",
-    "Roepnummer": "17-9076",
-    "Afkorting": "PM",
-    "TypeVoertuig": "Personeel/materieelvoertuig",
-    "Kenteken": "PX-895-D"
   },
   {
     "Regio": "17",
@@ -35289,30 +34433,6 @@
   },
   {
     "Regio": "17",
-    "Kazerne": "Regionaal/Wilhelminakade",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "K-632-HB"
-  },
-  {
-    "Regio": "17",
-    "Kazerne": "Regionaal/Wilhelminakade",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "HVX-80-T"
-  },
-  {
-    "Regio": "17",
-    "Kazerne": "Regionaal/Wilhelminakade",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "HXN-96-F"
-  },
-  {
-    "Regio": "17",
     "Kazerne": "Logistiek/Driemanssteeweg ",
     "Roepnummer": "17-9198",
     "Afkorting": "OVD-B",
@@ -35350,6 +34470,22 @@
     "Afkorting": "LO",
     "TypeVoertuig": "Logistiek voertuig",
     "Kenteken": "NZ-869-L"
+  },
+  {
+    "Regio": "17",
+    "Kazerne": "Logistiek/Driemanssteeweg ",
+    "Roepnummer": "17-9207",
+    "Afkorting": "TD",
+    "TypeVoertuig": "Technische dienst",
+    "Kenteken": "V-03-NTD"
+  },
+  {
+    "Regio": "17",
+    "Kazerne": "Logistiek/Driemanssteeweg ",
+    "Roepnummer": "17-9208",
+    "Afkorting": "TD",
+    "TypeVoertuig": "Technische dienst",
+    "Kenteken": "V-79-NRN"
   },
   {
     "Regio": "17",
@@ -35658,6 +34794,14 @@
   {
     "Regio": "17",
     "Kazerne": "Vakbekwaamheid/Breevaartstraat",
+    "Roepnummer": "17-9374",
+    "Afkorting": "LOH-O",
+    "TypeVoertuig": "Logistiek haakarmbak open uitvoering",
+    "Kenteken": "GEEN"
+  },
+  {
+    "Regio": "17",
+    "Kazerne": "Vakbekwaamheid/Breevaartstraat",
     "Roepnummer": "17-9376",
     "Afkorting": "BMH??",
     "TypeVoertuig": "Invoer Error",
@@ -35730,6 +34874,14 @@
   {
     "Regio": "17",
     "Kazerne": "Regionaal/Wilhelminakade",
+    "Roepnummer": "17-9908",
+    "Afkorting": "Onbekend",
+    "TypeVoertuig": "Onbekend",
+    "Kenteken": "HVH-84-N"
+  },
+  {
+    "Regio": "17",
+    "Kazerne": "Regionaal/Wilhelminakade",
     "Roepnummer": "17-9909",
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
@@ -35773,7 +34925,7 @@
     "Roepnummer": "17-9991",
     "Afkorting": "L-COPI",
     "TypeVoertuig": "Leider COPI",
-    "Kenteken": "NR-034-V"
+    "Kenteken": "JJL-04-R"
   },
   {
     "Regio": "17",
@@ -36140,7 +35292,7 @@
     "Kazerne": "s-Gravendeel",
     "Roepnummer": "18-6192",
     "Afkorting": "CI-B",
-    "TypeVoertuig": "Co\u00f6rdinatie- en informatievoorzieningsvoertuig Brandweer",
+    "TypeVoertuig": "Coördinatie- en informatievoorzieningsvoertuig Brandweer",
     "Kenteken": "V-062-PB"
   },
   {
@@ -36289,22 +35441,6 @@
   },
   {
     "Regio": "18",
-    "Kazerne": "Zwijndrecht",
-    "Roepnummer": "GEEN",
-    "Afkorting": "PMT-USR",
-    "TypeVoertuig": "Personeel/materieelvoertuig terreinvaardig USAR",
-    "Kenteken": "48-VZK-2"
-  },
-  {
-    "Regio": "18",
-    "Kazerne": "Zwijndrecht",
-    "Roepnummer": "GEEN",
-    "Afkorting": "PMT-USR",
-    "TypeVoertuig": "Personeel/materieelvoertuig terreinvaardig USAR",
-    "Kenteken": "74-VZK-2"
-  },
-  {
-    "Regio": "18",
     "Kazerne": "ProRail Kijfhoek",
     "Roepnummer": "18-6339",
     "Afkorting": "TS-BB",
@@ -36438,14 +35574,6 @@
     "Afkorting": "GS-BB",
     "TypeVoertuig": "Gevaarlijke stoffen voertuig bedrijfsbrandweer",
     "Kenteken": "VP-789-P"
-  },
-  {
-    "Regio": "18",
-    "Kazerne": "Chemours Dordrecht",
-    "Roepnummer": "GEEN",
-    "Afkorting": "BB",
-    "TypeVoertuig": "Bedrijfsbrandweer",
-    "Kenteken": "05-NXJ-4"
   },
   {
     "Regio": "18",
@@ -37308,7 +36436,7 @@
     "Kazerne": "Regionaal/Dordrecht Leerpark",
     "Roepnummer": "18-9423",
     "Afkorting": "C-VE",
-    "TypeVoertuig": "Co\u00f6rdinator verkenningseenheden",
+    "TypeVoertuig": "Coördinator verkenningseenheden",
     "Kenteken": "H-267-HB"
   },
   {
@@ -37388,7 +36516,7 @@
     "Kazerne": "Regionaal/Dordrecht Leerpark",
     "Roepnummer": "18-9488",
     "Afkorting": "AH",
-    "TypeVoertuig": "Arbeidshygi\u00ebne voertuig",
+    "TypeVoertuig": "Arbeidshygiëne voertuig",
     "Kenteken": "29-BRD-1"
   },
   {
@@ -37396,7 +36524,7 @@
     "Kazerne": "Regionaal/Dordrecht Leerpark",
     "Roepnummer": "18-9489",
     "Afkorting": "AH",
-    "TypeVoertuig": "Arbeidshygi\u00ebne voertuig",
+    "TypeVoertuig": "Arbeidshygiëne voertuig",
     "Kenteken": "30-BRD-1"
   },
   {
@@ -37972,7 +37100,7 @@
     "Kazerne": "Burgh-Haamstede",
     "Roepnummer": "19-2807",
     "Afkorting": "PAT",
-    "TypeVoertuig": "Pati\u00ebntenvervoer voertuig terreinvaardig",
+    "TypeVoertuig": "Patiëntenvervoer voertuig terreinvaardig",
     "Kenteken": "V-442-GT"
   },
   {
@@ -37990,30 +37118,6 @@
     "Afkorting": "WT",
     "TypeVoertuig": "Watertankwagen",
     "Kenteken": "BL-VR-13"
-  },
-  {
-    "Regio": "19",
-    "Kazerne": "Burgh-Haamstede",
-    "Roepnummer": "GEEN",
-    "Afkorting": "Invoer Error",
-    "TypeVoertuig": "Invoer Error",
-    "Kenteken": "ONBEKEND"
-  },
-  {
-    "Regio": "19",
-    "Kazerne": "Burgh-Haamstede",
-    "Roepnummer": "GEEN",
-    "Afkorting": "Invoer Error",
-    "TypeVoertuig": "Invoer Error",
-    "Kenteken": "ONBEKEND"
-  },
-  {
-    "Regio": "19",
-    "Kazerne": "Burgh-Haamstede",
-    "Roepnummer": "GEEN",
-    "Afkorting": "Invoer Error",
-    "TypeVoertuig": "Invoer Error",
-    "Kenteken": "ONBEKEND"
   },
   {
     "Regio": "19",
@@ -38404,7 +37508,7 @@
     "Kazerne": "Arnemuiden",
     "Roepnummer": "19-8599",
     "Afkorting": "CI-B",
-    "TypeVoertuig": "Co\u00f6rdinatie- en informatievoorzieningsvoertuig Brandweer",
+    "TypeVoertuig": "Coördinatie- en informatievoorzieningsvoertuig Brandweer",
     "Kenteken": "75-BD-XB"
   },
   {
@@ -38732,7 +37836,7 @@
     "Kazerne": "Middelburg Stromenweg",
     "Roepnummer": "19-8593",
     "Afkorting": "C-VE",
-    "TypeVoertuig": "Co\u00f6rdinator verkenningseenheden",
+    "TypeVoertuig": "Coördinator verkenningseenheden",
     "Kenteken": "RS-014-D"
   },
   {
@@ -40322,22 +39426,6 @@
   {
     "Regio": "19",
     "Kazerne": "Dow Terneuzen",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DB",
-    "TypeVoertuig": "Dienstbus",
-    "Kenteken": "29-XFS-5"
-  },
-  {
-    "Regio": "19",
-    "Kazerne": "Dow Terneuzen",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "NN-705-G"
-  },
-  {
-    "Regio": "19",
-    "Kazerne": "Dow Terneuzen",
     "Roepnummer": "PM-1",
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel/materieelvoertuig",
@@ -40366,14 +39454,6 @@
     "Afkorting": "SB",
     "TypeVoertuig": "Schuimblusvoertuig",
     "Kenteken": "BX-FP-11"
-  },
-  {
-    "Regio": "19",
-    "Kazerne": "Evos Oiltanking Terneuzen",
-    "Roepnummer": "GEEN",
-    "Afkorting": "PM",
-    "TypeVoertuig": "Personeel/materieelvoertuig",
-    "Kenteken": "V-115-KK"
   },
   {
     "Regio": "19",
@@ -40445,14 +39525,6 @@
     "Roepnummer": "SBH2",
     "Afkorting": "SBH",
     "TypeVoertuig": "Schuimblushaakarmbak",
-    "Kenteken": "GEEN"
-  },
-  {
-    "Regio": "19",
-    "Kazerne": "Refinery Vlissingen",
-    "Roepnummer": "GEEN",
-    "Afkorting": "Invoer Error",
-    "TypeVoertuig": "Invoer Error",
     "Kenteken": "GEEN"
   },
   {
@@ -40598,14 +39670,6 @@
     "Afkorting": "LO",
     "TypeVoertuig": "Logistiek voertuig",
     "Kenteken": "66-BGG-4"
-  },
-  {
-    "Regio": "20",
-    "Kazerne": "Safety Village Tilburg",
-    "Roepnummer": "GEEN",
-    "Afkorting": "Invoer Error",
-    "TypeVoertuig": "Invoer Error",
-    "Kenteken": "GEEN"
   },
   {
     "Regio": "20",
@@ -41155,9 +40219,9 @@
     "Regio": "20",
     "Kazerne": "Bergen op Zoom",
     "Roepnummer": "20-1045",
-    "Afkorting": "TST",
-    "TypeVoertuig": "Tankautospuit terreinvaardig",
-    "Kenteken": "BJ-NZ-67"
+    "Afkorting": "TS",
+    "TypeVoertuig": "Tankautospuit",
+    "Kenteken": "BV-PF-61"
   },
   {
     "Regio": "20",
@@ -42597,7 +41661,7 @@
     "Roepnummer": "20-7203",
     "Afkorting": "DAT",
     "TypeVoertuig": "Dienstauto terreinvaardig",
-    "Kenteken": "00-LLL-3"
+    "Kenteken": "V-48-NKL"
   },
   {
     "Regio": "20",
@@ -43353,14 +42417,6 @@
   },
   {
     "Regio": "20",
-    "Kazerne": "Udenhout",
-    "Roepnummer": "GEEN",
-    "Afkorting": "BMA-OTO",
-    "TypeVoertuig": "Bijzonder materieel aanhanger t.b.v. opleiding, training en oefenen",
-    "Kenteken": "ONBEKEND"
-  },
-  {
-    "Regio": "20",
     "Kazerne": "Tilburg-Vossenberg",
     "Roepnummer": "20-0026",
     "Afkorting": "GS",
@@ -43617,14 +42673,6 @@
   },
   {
     "Regio": "20",
-    "Kazerne": "Goirle",
-    "Roepnummer": "GEEN",
-    "Afkorting": "OVD-BZ",
-    "TypeVoertuig": "Officier van dienst bevolkingszorg",
-    "Kenteken": "HVK-36-K"
-  },
-  {
-    "Regio": "20",
     "Kazerne": "Breda",
     "Roepnummer": "Rescue1",
     "Afkorting": "SI",
@@ -43640,28 +42688,12 @@
     "Kenteken": "VJ-928-D"
   },
   {
-    "Regio": "20",
-    "Kazerne": "Saint Gobain Etten-Leur",
-    "Roepnummer": "GEEN",
-    "Afkorting": "TS",
-    "TypeVoertuig": "Tankautospuit",
-    "Kenteken": "VB-41-KV"
-  },
-  {
     "Regio": "21",
     "Kazerne": "Berghem",
     "Roepnummer": "21-0331",
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "44-BZX-5"
-  },
-  {
-    "Regio": "21",
-    "Kazerne": "Berghem",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DB",
-    "TypeVoertuig": "Dienstbus",
-    "Kenteken": "KS-211-J"
   },
   {
     "Regio": "21",
@@ -43733,15 +42765,7 @@
     "Roepnummer": "21-0681",
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
-    "Kenteken": "07-RHT-8"
-  },
-  {
-    "Regio": "21",
-    "Kazerne": "Boxmeer",
-    "Roepnummer": "GEEN",
-    "Afkorting": "Invoer Error",
-    "TypeVoertuig": "Invoer Error",
-    "Kenteken": "ONBEKEND"
+    "Kenteken": "J-404-SK"
   },
   {
     "Regio": "21",
@@ -43774,14 +42798,6 @@
     "Afkorting": "TST",
     "TypeVoertuig": "Tankautospuit terreinvaardig",
     "Kenteken": "96-BLH-9"
-  },
-  {
-    "Regio": "21",
-    "Kazerne": "Boxtel",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DB",
-    "TypeVoertuig": "Dienstbus",
-    "Kenteken": "JJ-373-L"
   },
   {
     "Regio": "21",
@@ -43913,14 +42929,6 @@
   },
   {
     "Regio": "21",
-    "Kazerne": "Haps",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DB",
-    "TypeVoertuig": "Dienstbus",
-    "Kenteken": "KN-697-R"
-  },
-  {
-    "Regio": "21",
     "Kazerne": "Heesch",
     "Roepnummer": "21-1731",
     "Afkorting": "TS",
@@ -43937,27 +42945,11 @@
   },
   {
     "Regio": "21",
-    "Kazerne": "Heesch",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DB",
-    "TypeVoertuig": "Dienstbus",
-    "Kenteken": "KS-215-J"
-  },
-  {
-    "Regio": "21",
     "Kazerne": "Heeswijk Dinther",
     "Roepnummer": "21-1831",
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BZ-NN-62"
-  },
-  {
-    "Regio": "21",
-    "Kazerne": "Heeswijk Dinther",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DB",
-    "TypeVoertuig": "Dienstbus",
-    "Kenteken": "KN-698-R"
   },
   {
     "Regio": "21",
@@ -43974,14 +42966,6 @@
     "Afkorting": "WT",
     "TypeVoertuig": "Watertankwagen",
     "Kenteken": "31-BGV-9"
-  },
-  {
-    "Regio": "21",
-    "Kazerne": "Helvoirt",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DB",
-    "TypeVoertuig": "Dienstbus",
-    "Kenteken": "KR-331-J"
   },
   {
     "Regio": "21",
@@ -44140,16 +43124,8 @@
     "Kazerne": "Den Bosch",
     "Roepnummer": "21-2081",
     "Afkorting": "AH",
-    "TypeVoertuig": "Arbeidshygi\u00ebne voertuig",
+    "TypeVoertuig": "Arbeidshygiëne voertuig",
     "Kenteken": "V-59-KVL"
-  },
-  {
-    "Regio": "21",
-    "Kazerne": "Den Bosch",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "HB-996-R"
   },
   {
     "Regio": "21",
@@ -44194,38 +43170,6 @@
   {
     "Regio": "21",
     "Kazerne": "Den Bosch",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "3-KFN-92"
-  },
-  {
-    "Regio": "21",
-    "Kazerne": "Den Bosch",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "4-XRZ-08"
-  },
-  {
-    "Regio": "21",
-    "Kazerne": "Den Bosch",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "79-ZJP-8"
-  },
-  {
-    "Regio": "21",
-    "Kazerne": "Den Bosch",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DB",
-    "TypeVoertuig": "Dienstbus",
-    "Kenteken": "KS-220-J"
-  },
-  {
-    "Regio": "21",
-    "Kazerne": "Den Bosch",
     "Roepnummer": "VW-LO",
     "Afkorting": "LO",
     "TypeVoertuig": "Logistiek voertuig",
@@ -44238,14 +43182,6 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "06-BHG-7"
-  },
-  {
-    "Regio": "21",
-    "Kazerne": "Liempde",
-    "Roepnummer": "GEEN",
-    "Afkorting": "HC",
-    "TypeVoertuig": "Handcrew voertuig",
-    "Kenteken": "JJ-372-L"
   },
   {
     "Regio": "21",
@@ -44286,14 +43222,6 @@
     "Afkorting": "MSA",
     "TypeVoertuig": "Motorspuitaanhanger",
     "Kenteken": "ONBEKEND"
-  },
-  {
-    "Regio": "21",
-    "Kazerne": "Lith",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DB",
-    "TypeVoertuig": "Dienstbus",
-    "Kenteken": "11-TNF-7"
   },
   {
     "Regio": "21",
@@ -44370,34 +43298,10 @@
   {
     "Regio": "21",
     "Kazerne": "Rosmalen",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "T-112-GH"
-  },
-  {
-    "Regio": "21",
-    "Kazerne": "Rosmalen",
     "Roepnummer": "21-OPL-1",
     "Afkorting": "HV",
     "TypeVoertuig": "Hulpverleningsvoertuig",
     "Kenteken": "BX-DP-18"
-  },
-  {
-    "Regio": "21",
-    "Kazerne": "Rosmalen",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "HB-998-R"
-  },
-  {
-    "Regio": "21",
-    "Kazerne": "Rosmalen",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "KL-993-G"
   },
   {
     "Regio": "21",
@@ -44406,14 +43310,6 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "32-BKL-6"
-  },
-  {
-    "Regio": "21",
-    "Kazerne": "Megen",
-    "Roepnummer": "GEEN",
-    "Afkorting": "HC",
-    "TypeVoertuig": "Handcrew voertuig",
-    "Kenteken": "KS-212-J"
   },
   {
     "Regio": "21",
@@ -44481,14 +43377,6 @@
   },
   {
     "Regio": "21",
-    "Kazerne": "Oeffelt",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DB",
-    "TypeVoertuig": "Dienstbus",
-    "Kenteken": "JJ-375-J"
-  },
-  {
-    "Regio": "21",
     "Kazerne": "Sint Anthonis",
     "Roepnummer": "21-3041",
     "Afkorting": "TST",
@@ -44510,14 +43398,6 @@
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
     "Kenteken": "KS-213-J"
-  },
-  {
-    "Regio": "21",
-    "Kazerne": "Oss",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DB",
-    "TypeVoertuig": "Dienstbus",
-    "Kenteken": "S-068-LR"
   },
   {
     "Regio": "21",
@@ -44633,75 +43513,11 @@
   },
   {
     "Regio": "21",
-    "Kazerne": "Oss",
-    "Roepnummer": "GEEN",
-    "Afkorting": "LO",
-    "TypeVoertuig": "Logistiek voertuig",
-    "Kenteken": "50-BLP-2"
-  },
-  {
-    "Regio": "21",
-    "Kazerne": "Oss",
-    "Roepnummer": "GEEN",
-    "Afkorting": "LO",
-    "TypeVoertuig": "Logistiek voertuig",
-    "Kenteken": "41-BLP-2"
-  },
-  {
-    "Regio": "21",
-    "Kazerne": "Oss",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DPH-GW",
-    "TypeVoertuig": "Dompelpomphaakarmbak grootschalige watervoorziening",
-    "Kenteken": "GEEN"
-  },
-  {
-    "Regio": "21",
-    "Kazerne": "Oss",
-    "Roepnummer": "GEEN",
-    "Afkorting": "Invoer Error",
-    "TypeVoertuig": "Invoer Error",
-    "Kenteken": "76-WK-RR"
-  },
-  {
-    "Regio": "21",
-    "Kazerne": "Oss",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DB",
-    "TypeVoertuig": "Dienstbus",
-    "Kenteken": "38-KKD-4"
-  },
-  {
-    "Regio": "21",
-    "Kazerne": "Oss",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "4-XRZ-07"
-  },
-  {
-    "Regio": "21",
-    "Kazerne": "Oss",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "HB-997-R"
-  },
-  {
-    "Regio": "21",
     "Kazerne": "Ravenstein",
     "Roepnummer": "21-3231",
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "93-BDD-7"
-  },
-  {
-    "Regio": "21",
-    "Kazerne": "Ravenstein",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DB",
-    "TypeVoertuig": "Dienstbus",
-    "Kenteken": "KS-210-J"
   },
   {
     "Regio": "21",
@@ -44742,14 +43558,6 @@
     "Afkorting": "DPA-GW",
     "TypeVoertuig": "Dompelpompaanhanger grootschalige watervoorziening",
     "Kenteken": "ONBEKEND"
-  },
-  {
-    "Regio": "21",
-    "Kazerne": "Schaijk",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DB",
-    "TypeVoertuig": "Dienstbus",
-    "Kenteken": "32-HBX-8"
   },
   {
     "Regio": "21",
@@ -44814,14 +43622,6 @@
     "Afkorting": "GM",
     "TypeVoertuig": "Gereedschap/materieelvoertuig",
     "Kenteken": "5-VBS-00"
-  },
-  {
-    "Regio": "21",
-    "Kazerne": "Sint-Michielsgestel",
-    "Roepnummer": "GEEN",
-    "Afkorting": "HC",
-    "TypeVoertuig": "Handcrew voertuig",
-    "Kenteken": "S-025-LR"
   },
   {
     "Regio": "21",
@@ -45081,14 +43881,6 @@
   },
   {
     "Regio": "21",
-    "Kazerne": "Vlijmen",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DB",
-    "TypeVoertuig": "Dienstbus",
-    "Kenteken": "KS-221-J"
-  },
-  {
-    "Regio": "21",
     "Kazerne": "Heusden",
     "Roepnummer": "21-4411",
     "Afkorting": "OR",
@@ -45102,14 +43894,6 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BZ-BL-72"
-  },
-  {
-    "Regio": "21",
-    "Kazerne": "Heusden",
-    "Roepnummer": "GEEN",
-    "Afkorting": "Invoer Error",
-    "TypeVoertuig": "Invoer Error",
-    "Kenteken": "ONBEKEND"
   },
   {
     "Regio": "21",
@@ -45142,14 +43926,6 @@
     "Afkorting": "Invoer Error",
     "TypeVoertuig": "Invoer Error",
     "Kenteken": "ONBEKEND"
-  },
-  {
-    "Regio": "21",
-    "Kazerne": "Drunen",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DB",
-    "TypeVoertuig": "Dienstbus",
-    "Kenteken": "JH-683-J"
   },
   {
     "Regio": "21",
@@ -45366,14 +44142,6 @@
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
     "Kenteken": "R-584-XR"
-  },
-  {
-    "Regio": "22",
-    "Kazerne": "Best",
-    "Roepnummer": "GEEN",
-    "Afkorting": "Invoer Error",
-    "TypeVoertuig": "Invoer Error",
-    "Kenteken": "GEEN"
   },
   {
     "Regio": "22",
@@ -46722,22 +45490,6 @@
   {
     "Regio": "22",
     "Kazerne": "Veldhoven",
-    "Roepnummer": "GEEN",
-    "Afkorting": "Invoer Error",
-    "TypeVoertuig": "Invoer Error",
-    "Kenteken": "WF-ZJ-25"
-  },
-  {
-    "Regio": "22",
-    "Kazerne": "Veldhoven",
-    "Roepnummer": "GEEN",
-    "Afkorting": "SAA",
-    "TypeVoertuig": "Stroom aggregaat aanhanger",
-    "Kenteken": "ONBEKEND"
-  },
-  {
-    "Regio": "22",
-    "Kazerne": "Veldhoven",
     "Roepnummer": "22-4501",
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
@@ -47873,14 +46625,6 @@
   },
   {
     "Regio": "23",
-    "Kazerne": "Venlo",
-    "Roepnummer": "GEEN",
-    "Afkorting": "Invoer Error",
-    "TypeVoertuig": "Invoer Error",
-    "Kenteken": "GEEN"
-  },
-  {
-    "Regio": "23",
     "Kazerne": "Belfeld",
     "Roepnummer": "23-3401",
     "Afkorting": "DB",
@@ -48174,46 +46918,6 @@
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
     "Kenteken": "PS-607-L"
-  },
-  {
-    "Regio": "23",
-    "Kazerne": "Weert",
-    "Roepnummer": "GEEN",
-    "Afkorting": "Invoer Error",
-    "TypeVoertuig": "Invoer Error",
-    "Kenteken": "ONBEKEND"
-  },
-  {
-    "Regio": "23",
-    "Kazerne": "Weert",
-    "Roepnummer": "GEEN",
-    "Afkorting": "Invoer Error",
-    "TypeVoertuig": "Invoer Error",
-    "Kenteken": "ONBEKEND"
-  },
-  {
-    "Regio": "23",
-    "Kazerne": "Weert",
-    "Roepnummer": "GEEN",
-    "Afkorting": "Invoer Error",
-    "TypeVoertuig": "Invoer Error",
-    "Kenteken": "WR-FZ-35"
-  },
-  {
-    "Regio": "23",
-    "Kazerne": "Weert",
-    "Roepnummer": "GEEN",
-    "Afkorting": "MSA",
-    "TypeVoertuig": "Motorspuitaanhanger",
-    "Kenteken": "ONBEKEND"
-  },
-  {
-    "Regio": "23",
-    "Kazerne": "Weert",
-    "Roepnummer": "GEEN",
-    "Afkorting": "Invoer Error",
-    "TypeVoertuig": "Invoer Error",
-    "Kenteken": "ONBEKEND"
   },
   {
     "Regio": "23",
@@ -48714,14 +47418,6 @@
   {
     "Regio": "23",
     "Kazerne": "Hoofdkantoor VRLN",
-    "Roepnummer": "GEEN",
-    "Afkorting": "Invoer Error",
-    "TypeVoertuig": "Invoer Error",
-    "Kenteken": "GEEN"
-  },
-  {
-    "Regio": "23",
-    "Kazerne": "Hoofdkantoor VRLN",
     "Roepnummer": "OMA 2",
     "Afkorting": "BMA-OTO",
     "TypeVoertuig": "Bijzonder materieel aanhanger t.b.v. opleiding, training en oefenen",
@@ -49180,7 +47876,7 @@
     "Kazerne": "Heerlen",
     "Roepnummer": "24-1981",
     "Afkorting": "AH",
-    "TypeVoertuig": "Arbeidshygi\u00ebne voertuig",
+    "TypeVoertuig": "Arbeidshygiëne voertuig",
     "Kenteken": "19-BNN-4"
   },
   {
@@ -51361,14 +50057,6 @@
   },
   {
     "Regio": "26",
-    "Kazerne": "Schaarsbergen",
-    "Roepnummer": "GEEN",
-    "Afkorting": "GM",
-    "TypeVoertuig": "Gereedschap/materieelvoertuig",
-    "Kenteken": "58-BZ-JT"
-  },
-  {
-    "Regio": "26",
     "Kazerne": "Zoetermeer IFV",
     "Roepnummer": "26-6285",
     "Afkorting": "VD-MOP",
@@ -51442,14 +50130,6 @@
   {
     "Regio": "26",
     "Kazerne": "Zoetermeer IFV",
-    "Roepnummer": "GEEN",
-    "Afkorting": "BMA-USR",
-    "TypeVoertuig": "Bijzonder materieel aanhanger USAR",
-    "Kenteken": "OL-80-KZ"
-  },
-  {
-    "Regio": "26",
-    "Kazerne": "Zoetermeer IFV",
     "Roepnummer": "26-8382",
     "Afkorting": "TK-G",
     "TypeVoertuig": "Trekker groot",
@@ -51466,62 +50146,6 @@
   {
     "Regio": "26",
     "Kazerne": "Zoetermeer IFV",
-    "Roepnummer": "GEEN",
-    "Afkorting": "TK-G",
-    "TypeVoertuig": "Trekker groot",
-    "Kenteken": "9-VKK-10"
-  },
-  {
-    "Regio": "26",
-    "Kazerne": "Zoetermeer IFV",
-    "Roepnummer": "GEEN",
-    "Afkorting": "Invoer Error",
-    "TypeVoertuig": "Invoer Error",
-    "Kenteken": "OL-61-FP"
-  },
-  {
-    "Regio": "26",
-    "Kazerne": "Zoetermeer IFV",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "SK-799-Z"
-  },
-  {
-    "Regio": "26",
-    "Kazerne": "Zoetermeer IFV",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DB",
-    "TypeVoertuig": "Dienstbus",
-    "Kenteken": "RV-530-L"
-  },
-  {
-    "Regio": "26",
-    "Kazerne": "Zoetermeer IFV",
-    "Roepnummer": "GEEN",
-    "Afkorting": "HA",
-    "TypeVoertuig": "Haakarmvoertuig",
-    "Kenteken": "65-BBZ-7"
-  },
-  {
-    "Regio": "26",
-    "Kazerne": "Zoetermeer IFV",
-    "Roepnummer": "GEEN",
-    "Afkorting": "TBO",
-    "TypeVoertuig": "Team brandonderzoek",
-    "Kenteken": "VG-831-N"
-  },
-  {
-    "Regio": "26",
-    "Kazerne": "Zoetermeer IFV",
-    "Roepnummer": "GEEN",
-    "Afkorting": "PMT",
-    "TypeVoertuig": "Personeel/materieelvoertuig terreinvaardig",
-    "Kenteken": "V-992-RD"
-  },
-  {
-    "Regio": "26",
-    "Kazerne": "Zoetermeer IFV",
     "Roepnummer": "26-8991",
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel/materieelvoertuig",
@@ -51534,14 +50158,6 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "RK-750-X"
-  },
-  {
-    "Regio": "26",
-    "Kazerne": "Zoetermeer IFV",
-    "Roepnummer": "GEEN",
-    "Afkorting": "BOH-DC",
-    "TypeVoertuig": "Basis ontsmetting haakarmbak",
-    "Kenteken": "GEEN"
   },
   {
     "Regio": "28",
@@ -51670,22 +50286,6 @@
     "Afkorting": "OVD-DF",
     "TypeVoertuig": "Officier van dienst Defensie",
     "Kenteken": "D-775-MB"
-  },
-  {
-    "Regio": "28",
-    "Kazerne": "ASK 't Harde",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "12-KP-32"
-  },
-  {
-    "Regio": "28",
-    "Kazerne": "ASK 't Harde",
-    "Roepnummer": "GEEN",
-    "Afkorting": "MSA-DF",
-    "TypeVoertuig": "Motorspuitaanhanger Defensie",
-    "Kenteken": "53-WFH-2"
   },
   {
     "Regio": "28",
@@ -51833,22 +50433,6 @@
   },
   {
     "Regio": "28",
-    "Kazerne": "MMC Veenhuizen",
-    "Roepnummer": "GEEN",
-    "Afkorting": "MSA-DF",
-    "TypeVoertuig": "Motorspuitaanhanger Defensie",
-    "Kenteken": "27-WDZ-6"
-  },
-  {
-    "Regio": "28",
-    "Kazerne": "MMC Veenhuizen",
-    "Roepnummer": "GEEN",
-    "Afkorting": "MSA-DF",
-    "TypeVoertuig": "Motorspuitaanhanger Defensie",
-    "Kenteken": "49-WFH-2"
-  },
-  {
-    "Regio": "28",
     "Kazerne": "Woensdrecht",
     "Roepnummer": "28-4131",
     "Afkorting": "TS-DF",
@@ -51985,14 +50569,6 @@
   },
   {
     "Regio": "28",
-    "Kazerne": "Woensdrecht",
-    "Roepnummer": "GEEN",
-    "Afkorting": "HA-DF",
-    "TypeVoertuig": "Haakarmvoertuig Defensie",
-    "Kenteken": "DM-694-F"
-  },
-  {
-    "Regio": "28",
     "Kazerne": "Gilze-Rijen",
     "Roepnummer": "28-4231",
     "Afkorting": "TS-DF",
@@ -52113,22 +50689,6 @@
   },
   {
     "Regio": "28",
-    "Kazerne": "Vliegbasis Deelen",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA-DF",
-    "TypeVoertuig": "Dienstauto Defensie",
-    "Kenteken": "10-KP-10"
-  },
-  {
-    "Regio": "28",
-    "Kazerne": "Vliegbasis Deelen",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA-DF",
-    "TypeVoertuig": "Dienstauto Defensie",
-    "Kenteken": "14-KP-55"
-  },
-  {
-    "Regio": "28",
     "Kazerne": "Vliegbasis Leeuwarden",
     "Roepnummer": "28-4431",
     "Afkorting": "TS-DF",
@@ -52166,22 +50726,6 @@
     "Afkorting": "OSC-DF",
     "TypeVoertuig": "On scene commander Defensie",
     "Kenteken": "96-DMV-9"
-  },
-  {
-    "Regio": "28",
-    "Kazerne": "Vliegbasis Leeuwarden",
-    "Roepnummer": "GEEN",
-    "Afkorting": "PM-DF",
-    "TypeVoertuig": "Personeel/materieelvoertuig Defensie",
-    "Kenteken": "LM-28-23"
-  },
-  {
-    "Regio": "28",
-    "Kazerne": "Vliegbasis Leeuwarden",
-    "Roepnummer": "GEEN",
-    "Afkorting": "GM-DF",
-    "TypeVoertuig": "Gereedschap/materieelvoertuig Defensie",
-    "Kenteken": "LM-90-70"
   },
   {
     "Regio": "28",
@@ -52505,30 +51049,6 @@
   },
   {
     "Regio": "28",
-    "Kazerne": "Marine Den Helder",
-    "Roepnummer": "GEEN",
-    "Afkorting": "FR-DF",
-    "TypeVoertuig": "First responder Defensie",
-    "Kenteken": "25-DMX-6"
-  },
-  {
-    "Regio": "28",
-    "Kazerne": "Marine Den Helder",
-    "Roepnummer": "GEEN",
-    "Afkorting": "FR-DF",
-    "TypeVoertuig": "First responder Defensie",
-    "Kenteken": "26-DMX-7"
-  },
-  {
-    "Regio": "28",
-    "Kazerne": "Marine Den Helder",
-    "Roepnummer": "GEEN",
-    "Afkorting": "TS-DF",
-    "TypeVoertuig": "Tankautospuit Defensie",
-    "Kenteken": "89-BFP-3"
-  },
-  {
-    "Regio": "28",
     "Kazerne": "Vliegbasis De Kooy",
     "Roepnummer": "28-6401",
     "Afkorting": "DA-DF",
@@ -52566,94 +51086,6 @@
     "Afkorting": "OSC-DF",
     "TypeVoertuig": "On scene commander Defensie",
     "Kenteken": "95-DMV-9"
-  },
-  {
-    "Regio": "28",
-    "Kazerne": "CLSK Breda",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA-DF",
-    "TypeVoertuig": "Dienstauto Defensie",
-    "Kenteken": "97-DMV-9"
-  },
-  {
-    "Regio": "28",
-    "Kazerne": "CLSK Breda",
-    "Roepnummer": "GEEN",
-    "Afkorting": "OSC-DF",
-    "TypeVoertuig": "On scene commander Defensie",
-    "Kenteken": "LM-74-70"
-  },
-  {
-    "Regio": "28",
-    "Kazerne": "Apeldoorn",
-    "Roepnummer": "GEEN",
-    "Afkorting": "OVD-DF",
-    "TypeVoertuig": "Officier van dienst Defensie",
-    "Kenteken": "KP-24-15"
-  },
-  {
-    "Regio": "28",
-    "Kazerne": "Apeldoorn",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA-DF",
-    "TypeVoertuig": "Dienstauto Defensie",
-    "Kenteken": "04-KP-91"
-  },
-  {
-    "Regio": "28",
-    "Kazerne": "Apeldoorn",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA-DF",
-    "TypeVoertuig": "Dienstauto Defensie",
-    "Kenteken": "00-KP-91"
-  },
-  {
-    "Regio": "28",
-    "Kazerne": "Johan Willem Frisokazerne Assen",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA-DF",
-    "TypeVoertuig": "Dienstauto Defensie",
-    "Kenteken": "18-KP-64"
-  },
-  {
-    "Regio": "28",
-    "Kazerne": "Garnizoen Vught",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA-DF",
-    "TypeVoertuig": "Dienstauto Defensie",
-    "Kenteken": "19-KP-83"
-  },
-  {
-    "Regio": "28",
-    "Kazerne": "Vlieland",
-    "Roepnummer": "GEEN",
-    "Afkorting": "TS-DF",
-    "TypeVoertuig": "Tankautospuit Defensie",
-    "Kenteken": "LM-31-28"
-  },
-  {
-    "Regio": "28",
-    "Kazerne": "Vlieland",
-    "Roepnummer": "GEEN",
-    "Afkorting": "TS-DF",
-    "TypeVoertuig": "Tankautospuit Defensie",
-    "Kenteken": "LM-31-36"
-  },
-  {
-    "Regio": "28",
-    "Kazerne": "Seedorf",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA-DF",
-    "TypeVoertuig": "Dienstauto Defensie",
-    "Kenteken": "01-KP-88"
-  },
-  {
-    "Regio": "28",
-    "Kazerne": "Seedorf",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DA-DF",
-    "TypeVoertuig": "Dienstauto Defensie",
-    "Kenteken": "04-KP-88"
   },
   {
     "Regio": "28",
