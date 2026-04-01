@@ -50,19 +50,18 @@ jobs:
           DISCORD: ${{ secrets.DISCORD }}
 
       # 5️⃣ Prettify & commit if changes
-      - name: Prettify and Push
+      - name: Prettify and Commit
         run: |
           npm install --no-save prettier@3.8.1
-          npx prettier --write "**/*.{js,md,json}"
+          npx prettier --write "Brandweer.json" "Changelog.json"
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
+          git add Brandweer.json Changelog.json
           if ! git diff --cached --quiet; then
-            git commit -m "Update Documents"
-            git push
+            git commit -m "Update JSON documents"
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/HulpdienstVoertuigenBeNeLux/ChangeLog.git
           else
             echo "No changes to commit"
-          fi
         shell: bash
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
