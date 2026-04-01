@@ -21,28 +21,25 @@ on:
 jobs:
   update-json:
     runs-on: ubuntu-latest
-    continue-on-error: false
     steps:
-      # 1️⃣ Checkout repo met credentials
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+      # 1️⃣ Checkout repo
+      - uses: actions/checkout@v3
         with:
           fetch-depth: 0
           persist-credentials: true
 
       # 2️⃣ Setup Python
-      - name: Setup Python
-        uses: actions/setup-python@v4
+      - uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
-      # 3️⃣ Installeer Python packages
+      # 3️⃣ Install dependencies
       - name: Install Python packages
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # 4️⃣ Run Update script
+      # 4️⃣ Run Update.py
       - name: Run Update.py
         run: python -u Scripts/Update.py
         env:
@@ -51,13 +48,12 @@ jobs:
           KAZ_URL: ${{ secrets.KAZ_URL }}
           DISCORD: ${{ secrets.DISCORD }}
 
-      # 5️⃣ JSON syntax check
-      - name: JSON Syntax Check
-        uses: limitusus/json-syntax-check@v1
+      # 5️⃣ JSON Syntax check
+      - uses: limitusus/json-syntax-check@v1
         with:
           pattern: "\\.json$"
 
-      # 6️⃣ Prettier & commit
+      # 6️⃣ Prettify & Commit
       - name: Prettify and Commit
         run: |
           npm install --no-save prettier@3.8.1
@@ -70,5 +66,4 @@ jobs:
             git push
           else
             echo "No changes to commit"
-          fi
         shell: bash
