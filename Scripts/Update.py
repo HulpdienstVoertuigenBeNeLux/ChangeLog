@@ -19,30 +19,31 @@ for x in hulpdienstvoertuigenbenelux["values"]:
         print(x)
         print("Skipping based on array size")
         continue
-    if x[0] == "-":
+
+    if x[0] == "-" or x[0] == "":
         print(x[0])
         print("skipping based on kazerne")
         continue
-    if x[0] == "":
-        print(x[0])
-        print("skipping based on kazerne")
-        continue
-    if x[1] == "":
+
+    if x[1] == "" or x[1] == "Roepnummer":
         print(x[1])
         print("skipping based on roepnummer")
         continue
-    if x[1] == "Roepnummer":
+
+    # ✅ NIEUW: skip "geen" (case-insensitive + trim)
+    if str(x[1]).strip().lower() == "geen":
         print(x[1])
-        print("skipping based on roepnummer")
+        print("skipping based on roepnummer = geen")
         continue
+
     if len(x) < 7:
         print(x)
         continue
+
     if not "brandweer" in str(x[6]).lower():
         print(x[6])
         print("skipping based on not brandweer")
         continue
-
 
     mapped = {
         "Regio": str(x[7]).zfill(2),
@@ -60,11 +61,12 @@ brw_new = hulpdiensten_mapped
 print("Check brandweer")
 for x in brw_new:
     if next((False for y in brw if y["Roepnummer"] == x["Roepnummer"]), True):
-        #discord.webhook(f'{x["Roepnummer"]} has been added ```{x}```')
+        # discord.webhook(f'{x["Roepnummer"]} has been added ```{x}```')
         changelog.update_changelog(f'Added {x["Roepnummer"]}')
         time.sleep(0.001)
         continue
-    old = [z for z in brw if z["Roepnummer"]==x["Roepnummer"]]
+
+    old = [z for z in brw if z["Roepnummer"] == x["Roepnummer"]]
     if not old[0] == x:
         discord.webhook(f"Entry Changed:\n ```{old[0]}```\nHas been changed to: ```{x}```")
         changelog.update_changelog(f'Updated {x["Roepnummer"]}')
@@ -122,8 +124,8 @@ for x in brw:
 
 print("save the new lists")
 
-with open(f'Brandweer.json', 'w+') as outfile_brw:
-    json.dump(brw_new, outfile_brw, indent=4)
+with open(f'Brandweer.json', 'w+', encoding="utf8") as outfile_brw:
+    json.dump(brw_new, outfile_brw, indent=4, ensure_ascii=False)
 
 # with open(f'Ambulance.json', 'w+') as outfile_amb:
 #     json.dump(amb_new, outfile_amb, indent=4)
