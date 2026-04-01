@@ -63,8 +63,11 @@ jobs:
           git add Brandweer.json Changelog.json
           if ! git diff --cached --quiet; then
             git commit -m "Update JSON documents"
-            git push
+            git push origin HEAD:main  # ✅ push via origin, GITHUB_TOKEN is automatisch beschikbaar
           else
             echo "No changes to commit"
           fi
         shell: bash
+        env:
+          # Gebruik de automatische GitHub token
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
