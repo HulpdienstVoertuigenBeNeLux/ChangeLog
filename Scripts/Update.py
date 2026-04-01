@@ -9,7 +9,7 @@ def get_key(x):
     roepnummer = str(x["Roepnummer"]).strip().lower()
 
     # Fallback key als roepnummer "geen" is
-    if roepnummer == "geen":
+    if roepnummer == "geen" || roepnummer == "onbekend":
         return f'{x["Kazerne"]}_{x["TypeVoertuig"]}_{x["Kenteken"]}'
 
     return roepnummer
